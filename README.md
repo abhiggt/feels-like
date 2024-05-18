@@ -1,2 +1,2 @@
 # feels-like
-emotion analysis on the basis of user text, detects the sentiment of the person by the toone of his/her text message
+An analytical review of the emotional content conveyed in a writer's text, entailing the assessment of the employed tone and language to infer the author's underlying feelings. This analysis considers various elements, including word selection, sentence structure, and punctuation, to deliver a thorough interpretation of the writer's emotional intent
